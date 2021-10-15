@@ -8,7 +8,7 @@ Time spent: **12** hours spent in total
 
 The following **required** functionality is completed:
 
-    **PART TWO**
+   **PART TWO**
 
 - [x] User can **compose and post a new tweet**
   - [x] User can click a “Compose” icon in the Action Bar on the top right
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
   - [x] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
   - [x] User can **see a counter with total number of characters left for tweet** on compose tweet page
  
-      **PART ONE**
+   **PART ONE**
       
 - [x] User can **sign in to Twitter** using OAuth login
 - [x]	User can **view tweets from their home timeline**
