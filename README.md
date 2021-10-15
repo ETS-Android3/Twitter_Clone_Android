@@ -51,7 +51,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/KendallBurton/Twitter_Clone_Android/blob/master/Twitter%20Clone%20Part%20two.gif' title='Twitter Clone PT1' width='500x500' alt='Video Walkthrough' 
+<img src='https://github.com/KendallBurton/Twitter_Clone_Android/blob/master/Twitter%20Clone%20Part%20two.gif' title='Twitter Clone PT1' width='500x500' alt='Video Walkthrough' />
 
 <img src='https://github.com/KendallBurton/Twitter_Clone_Android/blob/master/TwitterClonept1.gif' title='Twitter Clone PT1' width='500x500' alt='Video Walkthrough' />
 
